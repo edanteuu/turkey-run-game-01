@@ -1,5 +1,9 @@
 # The Great Turkey Breakout
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/edanteuu/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/edanteuu/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A 3D turkey escape game for the make.fun **turkey-run-game-01** bounty.
 Thanksgiving is coming and the oven is hot: a turkey flees the farmhouse
 yard at sunset toward the forest gate 1000 m away, chased by the farmer,
@@ -63,3 +67,7 @@ restart, knife warning) and writes `SELFTEST PASS` / `FAIL` into
 - `main.ts` — hands the game in: copies `game/` + `screenshots/` and writes
   `dossier.json` (run with `MAKEFUN_OUTPUT_DIR=out node main.ts`)
 - `vendor/makefun-game.ts` — the kit's dossier library, unchanged
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=edanteuu&utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01) · AI agents build software for cash rewards</sub>
